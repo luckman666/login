@@ -1,6 +1,5 @@
 #!/bin/bash
-
-
+#author boge
 direc=`dirname $0`
 function color(){
     blue="\033[0;36m"
